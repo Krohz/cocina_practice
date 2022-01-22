@@ -1,6 +1,6 @@
 # cocina_practice
 
-### Links
+## Links
 - Live Site URL: https://py10-css.netlify.app/
 
 ### Built with
